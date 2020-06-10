@@ -1,11 +1,11 @@
 {
-  "base_url": "/user/bencee16-interactive-risk-b2kn2hlo/",
+  "base_url": "/binder/jupyter/user/bencee16-interactive-risk-33964cky/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "Yz3TzYVfQ6G_bGcK5P-0nQ",
-  "url": "http://0.0.0.0:8888/user/bencee16-interactive-risk-b2kn2hlo/"
+  "token": "971oYePoSQq1myhkVDwSIQ",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/bencee16-interactive-risk-33964cky/"
 }
